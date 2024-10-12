@@ -1,6 +1,6 @@
 # Plantro-X: Tomato Leaf Disease Detection
 
-This project implements a tomato leaf disease detection system using the YOLOv5 model. The application utilizes a pre-trained YOLOv5 model to detect diseases in tomato leaves by processing images captured from a dataset.
+This project implements a tomato leaf disease detection system using the YOLOv5 model. The application utilizes a pre-trained YOLOv5 model to detect diseases in tomato leaves by processing images captured from real-time camera.
 
 ## Features
 - **Object Detection:** Utilizes the YOLOv5 model to detect various diseases in tomato leaves.
